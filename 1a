@@ -1,0 +1,6 @@
+START
+Prompt the user to enter temperature in Farenheit.
+Get the temperature in Farenheit.
+Convert the temperature to Celsius using Celsius = 5/9 * (Farenheit - 32).
+Display the value as temperature in Celsius.
+END
