@@ -1,0 +1,9 @@
+START
+Prompt the user to enter 3 numbers n1, n2 and n3,
+Get n1, n2 and n3,
+Check if n1>n2 and n1>n3,
+If true display n1 is the largest number,
+Check if n2>n1 and n2>n3,
+If true display n2 is the largest number,
+Otherwise display n3 is the largest number,
+END.
